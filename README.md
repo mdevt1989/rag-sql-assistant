@@ -99,13 +99,6 @@ The application can be configured through:
 - `.env` file - Environment-specific settings
 - Gradio interface settings
 
-## 🧪 Testing
-
-Run the test suite:
-
-```bash
-python -m pytest tests/
-```
 
 ## 🤝 Contributing
 
