@@ -6,7 +6,7 @@ In this project, I used Parch and Posey database to explore.
 
 ## 🌟 Features
 
-- **Natural Language Processing**: Convert plain English questions into SQL queries using LLaMA 3 (70B)
+- **Natural Language Processing**: Convert plain English questions into SQL queries using LLaMA 3 (8B)
 - **Local Privacy**: Runs completely locally using Ollama - no data leaves your system
 - **Interactive Visualization**: Automatic chart generation based on query results
 - **Database Integration**: Seamless PostgreSQL connectivity
@@ -18,7 +18,7 @@ In this project, I used Parch and Posey database to explore.
 
 - Python 3.9+
 - PostgreSQL database
-- [Ollama](https://ollama.ai/) installed with LLaMA 3 70B model
+- [Ollama](https://ollama.ai/) installed with LLaMA 3 8B model
 - Git
 
 ### Installation
